@@ -1604,7 +1604,7 @@ ggplot(data)+ ####加载数据
 ggsave(file = paste(opt$filename,"violin.pdf",sep='_'), width = 105,height =150 ,dpi = 450,units = "mm")
 ggsave(file = paste(opt$filename,"violin.png",sep='_'), width = 105,height =150 ,dpi = 450,units = "mm")
 
-#10soger
+# 10soger
 #!/usr/bin/env p3
 #-*- coding: utf-8 -*-
 #gencos
